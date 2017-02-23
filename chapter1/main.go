@@ -31,12 +31,12 @@ func main() {
  *    - We can write inline and block comments.
  *
  * 3. Our program began with package main. What would the files in the fmt package
- * begin with?
+ *    begin with?
  *
  *    - package fmt
  *
  * 4. We used the Println function defined in the fmt package. If you wanted to use
- *   the Exit function from the os package, what would you need to do?
+ *    the Exit function from the os package, what would you need to do?
  *
  *    - We need to defined os in the begin of this file e.i: import "os"
  */
