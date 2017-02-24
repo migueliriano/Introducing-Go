@@ -33,7 +33,7 @@ func main() {
  * 3. Our program began with package main. What would the files in the fmt package
  *    begin with?
  *
- *    - package main
+ *    - package fmt
  *
  * 4. We used the Println function defined in the fmt package. If you wanted to use
  *    the Exit function from the os package, what would you need to do?
