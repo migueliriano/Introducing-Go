@@ -17,7 +17,7 @@ func main() {
 
 	var numberToLetter int32
 
-	fmt.Println("Insert a number to covert it into a Word")
+	fmt.Println("Insert a number to covert it into a Word from 0 to 4")
 
 	fmt.Scanf("%d", &numberToLetter)
 
@@ -36,3 +36,17 @@ func main() {
 		fmt.Println("Not number found")
 	}
 }
+
+/*
+ * Exercise
+ *
+ *  What does the following program print?
+ *      i := 10
+ *      if i > 10 {
+ *          fmt.Println("Big")
+ *      } else {
+ *          fmt.Println("Small")
+ *      }
+ *
+ *  - Print the word 'Small' because the variable `i` is less of the number 10
+ */
